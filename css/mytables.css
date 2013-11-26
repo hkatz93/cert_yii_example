@@ -1,0 +1,44 @@
+table.mydetail-view .null
+{
+	color: pink;
+}
+
+table.mydetail-view
+{
+	background: white;
+	border-collapse: collapse;
+	width: 100%;
+	margin: 0;
+}
+
+table.mydetail-view th, table.detail-view td
+{
+	font-size: 0.9em;
+	border: 1px white solid;
+	padding: 0.3em 0.6em;
+	vertical-align: top;
+}
+
+table.mydetail-view th
+{
+	text-align: right;
+	width: 160px;
+}
+
+table.mydetail-view tr.odd
+{
+	background:#E5F1F4;
+}
+
+table.mydetail-view tr.even
+{
+	background:#F8F8F8;
+}
+
+table.mydetail-view tr.odd th
+{
+}
+
+table.mydetail-view tr.even th
+{
+}

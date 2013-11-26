@@ -1,0 +1,4 @@
+
+# starting from DOCUMENT_ROOT/web/admin/protected/commands
+# NOTE: cert_id=41 will not work, this is just an example
+../yiic importlabresults overwrite --filename=../../../test/phpunit/test_data_results/excel_sample_data/Test_Data_IEEE_802.11n_Access_Point_v1.0_t1.xls --app_id=8543 --cert_id=41 

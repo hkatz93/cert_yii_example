@@ -1,0 +1,5 @@
+# update_dep_products example
+#
+# run the following command to update dependent products:
+#
+./yiic importapp updatedependents --file=samples/update_dep_products.csv 
